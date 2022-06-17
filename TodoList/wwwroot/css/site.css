@@ -1,0 +1,46 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.item {
+    background-color: #eaeded;
+}
+
+#desc-div {
+    position: relative;
+    left: 50px;
+}
+
+/* enables strikethough of checked checkboxes */
+input[type=checkbox]:checked + label.strikethrough {
+    text-decoration: line-through;
+}
+
+.add-button {
+    text-align: center;
+}
+
+/*align add button with text in the same div*/
+#add-button-inline {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.div-space {
+    margin-bottom: 15px;
+}
