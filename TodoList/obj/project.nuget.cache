@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fiBWdBjaIU6C6JQ86S5sjA6LIDCR6cLY8Dky2YF4lEjL8F7dU6jpWVc63yGAM1oNvaIibhCZqK2a47LtlcTb1Q==",
+  "dgSpecHash": "5rpqqST+J38VFeb+Wy89v6QQ9Y5tkTv4pg/pmupMHfW23diDg3b2anhfxpRFPuvWKyPNANRQymA6KGk8DdYaAA==",
   "success": true,
-  "projectFilePath": "D:\\NETprojects\\repos\\TodoList\\TodoList\\TodoList.csproj",
+  "projectFilePath": "D:\\Repositories\\TodoList\\TodoList\\TodoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dragan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dragan\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.5\\microsoft.aspnetcore.mvc.razor.extensions.6.0.5.nupkg.sha512",

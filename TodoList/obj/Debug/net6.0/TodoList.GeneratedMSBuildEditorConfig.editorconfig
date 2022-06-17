@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TodoList
 build_property.RootNamespace = TodoList
-build_property.ProjectDir = D:\NETprojects\repos\TodoList\TodoList\
+build_property.ProjectDir = D:\Repositories\TodoList\TodoList\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\NETprojects\repos\TodoList\TodoList
+build_property.MSBuildProjectDirectory = D:\Repositories\TodoList\TodoList
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/NETprojects/repos/TodoList/TodoList/Views/Home/Index.cshtml]
+[D:/Repositories/TodoList/TodoList/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NETprojects/repos/TodoList/TodoList/Views/Home/Privacy.cshtml]
+[D:/Repositories/TodoList/TodoList/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NETprojects/repos/TodoList/TodoList/Views/Item/AddItem.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxBZGRJdGVtLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/NETprojects/repos/TodoList/TodoList/Views/Item/DeleteItem.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxEZWxldGVJdGVtLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/NETprojects/repos/TodoList/TodoList/Views/Item/EditItem.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxFZGl0SXRlbS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/NETprojects/repos/TodoList/TodoList/Views/Item/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/NETprojects/repos/TodoList/TodoList/Views/Shared/Error.cshtml]
+[D:/Repositories/TodoList/TodoList/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NETprojects/repos/TodoList/TodoList/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Repositories/TodoList/TodoList/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NETprojects/repos/TodoList/TodoList/Views/_ViewImports.cshtml]
+[D:/Repositories/TodoList/TodoList/Views/TodoList/AddItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0xpc3RcQWRkSXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositories/TodoList/TodoList/Views/TodoList/DeleteItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0xpc3RcRGVsZXRlSXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositories/TodoList/TodoList/Views/TodoList/EditItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0xpc3RcRWRpdEl0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositories/TodoList/TodoList/Views/TodoList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb0xpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositories/TodoList/TodoList/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NETprojects/repos/TodoList/TodoList/Views/_ViewStart.cshtml]
+[D:/Repositories/TodoList/TodoList/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/NETprojects/repos/TodoList/TodoList/Views/Shared/_Layout.cshtml]
+[D:/Repositories/TodoList/TodoList/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dflwqwkrub

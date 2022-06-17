@@ -2603,11 +2603,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NETprojects\\repos\\TodoList\\TodoList\\TodoList.csproj",
+      "projectUniqueName": "D:\\Repositories\\TodoList\\TodoList\\TodoList.csproj",
       "projectName": "TodoList",
-      "projectPath": "D:\\NETprojects\\repos\\TodoList\\TodoList\\TodoList.csproj",
+      "projectPath": "D:\\Repositories\\TodoList\\TodoList\\TodoList.csproj",
       "packagesPath": "C:\\Users\\Dragan\\.nuget\\packages\\",
-      "outputPath": "D:\\NETprojects\\repos\\TodoList\\TodoList\\obj\\",
+      "outputPath": "D:\\Repositories\\TodoList\\TodoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dragan\\AppData\\Roaming\\NuGet\\NuGet.Config",

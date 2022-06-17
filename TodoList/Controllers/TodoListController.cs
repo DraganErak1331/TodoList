@@ -4,11 +4,11 @@ using TodoList.Models;
 
 namespace TodoList.Controllers
 {
-    public class ItemController : Controller
+    public class TodoListController : Controller
     {
         private readonly ApplicationDbContext db;
 
-        public ItemController(ApplicationDbContext db)
+        public TodoListController(ApplicationDbContext db)
         {
             this.db = db;
         }
