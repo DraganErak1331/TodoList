@@ -6,7 +6,7 @@
 
 <img src = "screenshots/main_page.PNG">
 
-This is a web application that functions as a todo list. It was created using .NET 6.0(ASP.NET and Entity Framework Core), and SQL. Bootstrap, a CSS framework, was also used in the creation of this application. 
+This is a web application that functions as a todo list. It was created using .NET 6.0(ASP.NET , Entity Framework Core, and Razor pages), and SQL. Bootstrap, a CSS framework, was also used in the creation of this application. 
 
 <br>
 
